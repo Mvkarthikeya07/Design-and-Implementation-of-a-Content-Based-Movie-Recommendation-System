@@ -1,4 +1,4 @@
-🎬 Advanced Movie Recommendation System
+🎬 Design and Implementation of a Content-Based Movie Recommendation System
 
 A Machine Learning–Driven Content-Based Recommender Web Application
 
